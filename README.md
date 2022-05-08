@@ -1,7 +1,7 @@
 # Stress Detection from Social Media Articles: New Dataset Benchmark and Analytical Study
 This repository contains the datasets for classification of **stress** from text-based social media articles from Reddit and Twitter, which were created within the paper titled "Stress Detection from Social Media Articles: New Dataset Benchmark and Analytical Study". 
 
-***Status - Accepted for Presentation at IEEE WCCI 2022, IJCNN track.  ***
+***Status - Accepted for Oral Presentation at IEEE WCCI 2022, IJCNN track.***
 
 ## Overview of the datasets
 We construct four high quality datasets using the text articles from Reddit and Twitter. Against each of the articles is a class label with a value of '0' or '1', where '0' specifies a *Stress Negative* article and '1' specifies a *Stress Positive* article. Annotation was done using an automated DNN-based strategy highlighted in the aforementioned study.
