@@ -15,7 +15,7 @@ The description about each of the datasets is given as under:
 
 The details about the dataset may be directly referred to from the study.
 
-## Citations
+## Citation
 ```
 @inproceedings{rastogi2022stress,
   title={Stress Detection from Social Media Articles: New Dataset Benchmark and Analytical Study},
