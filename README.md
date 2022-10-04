@@ -13,7 +13,17 @@ The description about each of the datasets is given as under:
 - **Twitter Full**: Consists of stress and non-stress related tweets, collected from Twitter.  
 - **Twitter Non-Advert**: Consists of the denoised version of the **Twitter Full** dataset.  
 
-The details about the dataset may be directly referred to from the study.
+The details about the datasets may be directly referred to from the study.
+
+## Other Files
+Code files for data preprocessing and finetuning DistilBERT on stress detection are also provided. The files are: 
+
+- **distilbert_train.py**: Finetuning script for DistilBERT.
+- **distilbert_eval.py**: Evaluation script for DistilBERT.
+- **reddit_preprocessing.py**: Preprocessing script for Reddit dataset. 
+- **twitter_preprocessing.py**: Preprocessing script for Twitter dataset.   
+
+The automated annotation code may be provided on request to the authors.
 
 ## Citation
 ```
